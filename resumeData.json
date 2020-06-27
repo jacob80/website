@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name":"Jacob Anderson",
+    "occupation":"Software Engineer",
+    "description":"Hardware and Software engineering is my passion and my work exemplifies my endeavors into the world of mobile and desktop web applications, embedded sofware and hardware and applications of these technologies in the automotive industry",
+    "image":"profilepic.jpg",
+    "bio":"Engineering and technology have always fascinated me. Throughout my career, I have tried to find interesting and creative ways to apply what I have learned in my software development career to the projects I have been involved in. I am a web applications software engineer profesionally and an embedded hardware and software mad scientist by night.",
+    "contactmessage": "Contact me!",
+    "email": "jacob@ba-eng.com",
+    "phone": "402-957-1847",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Omaha",
+      "state":"Nebraska",
+      "zip": "68136"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jacob80",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jacob-william-anderson/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jacob80a/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jacob80",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Nebraska-Lincoln, Peter Kiewit Institute",
+        "degree":"Bachelor of Science in Computer Engineering",
+        "graduated":"May 2015",
+        "description":"Embedded software and hardware design, advanced mathematics and statistical analysis, digital logic and technologies, design tools and techniques, and documentation and maintenance"
+      }
+    ],
+    "work":[
+      {
+        "company":"NTT",
+        "title":"Software Engineer",
+        "years":"March 2010 - Present",
+        "description":"Extensive Front-End, Back-End, API, and automated test application development and engineering, Serverless application scaling design inside a Kubernetes/Docker clustered environment, Seamless application deployment experience with continuous integration tools such as GitLab CI and Salt application configuration management, Automated build tools such as Gradle and Maven, React and Javascript front-end user interfaces design and API integration experience, Spring Framework, Spring Boot, Spring Security, Spring Session, Hibernate, JavaServer Faces, Primefaces Technologies, 3rd-Party Application Programming Interface (API) Integration and Implementation, GenSwagger API documentation, Selenium WebDriver and TestNG Automation Test Case Development applied to Java and React application front-end interfaces to ensure high quality user experiences, Docker Application Container + Kubernetes Server Deployment, Agile software development team member"
+      },
+      {
+        "company":"Braden-Anderson Engineering",
+        "title":"Co-Founder, Embedded Systems Engineer",
+        "years":"June 2016 - Present",
+        "description":"• Printed circuit board design for automotive lighting applications, Microcontroller System Design and Implementation (C++ and C Programming Languages), Protocol Buffers and nanopb experience, Flutter Cross Platform mobile application integration to control embedded system hardware, Fusion 360 Electronics and Housing design integration, Product development and marketing, Customer product integration"
+      },
+      {
+        "company":"1320Video",
+        "title":"Video Editor in Chief",
+        "years":"March 2012 - August 2017",
+        "description":"Senior manager and active editor working within a team producing video captured at automotive events across the United States under the automotive industry's top media production company 1320Video, Author of original content media productions which have been featured on Yahoo.com, Yahoo Automotive, The Today Show, Top Gear and numerous other automotive channels on YouTube, Author of original content cumulatively amounting to over 50 million views on YouTube platform, Responsible for management of video scheduling and optimization working within a team of six editors, Innovation and collaboration using tools such as Slack messenger and Frame.io for video review and editing, Developed a video production scheduling, workflow and inventory system from the ground up using Trello, Frame.io and Google Sheets to optimize video production schedule, video editing/revision and monitoring, Responsible for researching, implementing, testing and maintaining editing software and productions tools on Apple OS X operating system. Implemented tools including Final Cut Pro X, CoreMelt SliceX, Frame.io, Trello, Zapier automation and After Effects and Photoshop, Optimization of content revenue strategy including placement of mid roll advertisements, correct timing of content relative to trending topics, overall channel revenue analysis and strategy adjustment."
+      },
+      {
+        "company":"Technical Support, Inc",
+        "title":"Software Engineering Intern",
+        "years":"August 2012 - January 2013",
+        "description":"Embedded software design, testing, and implementation, Developed a bootloaders for a Texas Instruments design used in automotive applications, Developed software for various Java and C software projects, Maintained and designed tools for inventory system based on feedback from manufacturing workers requirements and requests for improvements."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Flutter",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"Selenium",
+        "level":"100%"
+      },
+      {
+        "name":"Primefaces",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have worked with Jacob for 3 years, and in that time, he has gone from learning web application development as a novice to an expert in many facets. He is eager to learn and determined to figure out how to make new technology work. He works well with others and contributes to the team without hesitation.",
+        "user":"Thomas McNally, Senior Software Engineer, NTT"
+      }
+    ]
+  }
+}
