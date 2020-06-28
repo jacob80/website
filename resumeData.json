@@ -3,7 +3,7 @@
     "name":"Jacob Anderson",
     "occupation":"Software Engineer",
     "description":"Hardware and Software engineering is my passion and my work exemplifies my endeavors into the world of mobile and desktop web applications, embedded sofware and hardware and applications of these technologies in the automotive industry",
-    "image":"profilepic.jpg",
+    "image":"./profilepic.jpg",
     "bio":"Engineering and technology have always fascinated me. Throughout my career, I have tried to find interesting and creative ways to apply what I have learned in my software development career to the projects I have been involved in. I am a web applications software engineer profesionally and an embedded hardware and software mad scientist by night.",
     "contactmessage": "Contact me!",
     "email": "jacob@ba-eng.com",
