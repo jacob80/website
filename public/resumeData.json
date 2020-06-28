@@ -2,9 +2,9 @@
   "main": {
     "name":"Jacob Anderson",
     "occupation":"Software Engineer",
-    "description":"Hardware and Software engineering is my passion and my work exemplifies my endeavors into the world of mobile and desktop web applications, embedded sofware and hardware and applications of these technologies in the automotive industry",
+    "description":"Hardware and Software engineering is my passion and my work exemplifies my endeavors into the world of mobile and desktop web applications, embedded sofware and hardware and applications of these technologies in the automotive industry. I look forward to a future full of discovery of new technology and implementation in order to further myself technologically and provide value to the world by offering my skillset to those in need",
     "image":"profilePic.jpg",
-    "bio":"Engineering and technology have always fascinated me. Throughout my career, I have tried to find interesting and creative ways to apply what I have learned in my software development career to the projects I have been involved in. I am a web applications software engineer profesionally and an embedded hardware and software mad scientist by night.",
+    "bio":"Engineering and technology have always fascinated me. Throughout my career, I have tried to find interesting and creative ways to apply what I have learned in my software development career to the projects I have been involved in. I am a web applications software engineer professionally and an embedded hardware and software mad scientist by night.",
     "contactmessage": "Contact me!",
     "email": "jacob@ba-eng.com",
     "phone": "402-957-1847",
@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Java, JSF (Java Server Faces), JSF CDI, Primefaces, HTML, Spring, Spring Security, Spring Session, Spring Boot, Hibernate ORM, ",
     "education":[
       {
         "school":"University of Nebraska-Lincoln, Peter Kiewit Institute",
