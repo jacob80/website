@@ -3,7 +3,7 @@
     "name":"Jacob Anderson",
     "occupation":"Software Engineer",
     "description":"Hardware and Software engineering is my passion and my work exemplifies my endeavors into the world of mobile and desktop web applications, embedded sofware and hardware and applications of these technologies in the automotive industry",
-    "image":"/website/profilepic.jpg",
+    "image":"profilePic.jpg",
     "bio":"Engineering and technology have always fascinated me. Throughout my career, I have tried to find interesting and creative ways to apply what I have learned in my software development career to the projects I have been involved in. I am a web applications software engineer profesionally and an embedded hardware and software mad scientist by night.",
     "contactmessage": "Contact me!",
     "email": "jacob@ba-eng.com",
@@ -14,8 +14,8 @@
       "state":"Nebraska",
       "zip": "68136"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://jacob80.github.io/",
+    "resumedownload":"https://jacob80.github.io/website/jacobAndersonsResume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -118,25 +118,25 @@
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://jacob80.github.io/website"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://jacob80.github.io/website"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://jacob80.github.io/website"
       },
       {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://jacob80.github.io/website"
       }
     ]
   },
