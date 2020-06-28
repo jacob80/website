@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Java, JSF (Java Server Faces), JSF CDI, Primefaces, HTML, Spring, Spring Security, Spring Session, Spring Data Redis, Spring Boot, Hibernate ORM, Gradle, Maven, Selenium, TestNG, Javascript, API, Groovy, Spock, ReactJS, NPM, Yarn, React Native, Flutter, C, C++, Arduino, New Relic, SonarQube, WhiteHat, Kubernetes, Docker",
+    "skillmessage":"Java, JSF (Java Server Faces), JSF CDI, Primefaces, HTML, Spring, Spring Security, Spring Session, Spring Data Redis, Spring Boot, Hibernate ORM, Gradle, Maven, Selenium, TestNG, Javascript, API, Groovy, Spock, Create-React-App ReactJS, NPM, Yarn, React Native, Flutter, C, C++, Arduino, New Relic, SonarQube, WhiteHat, Kubernetes, Docker",
     "education":[
       {
         "school":"University of Nebraska-Lincoln, Peter Kiewit Institute",
