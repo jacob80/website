@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Java, JSF (Java Server Faces), JSF CDI, Primefaces, HTML, Spring, Spring Security, Spring Session, Spring Boot, Hibernate ORM, ",
+    "skillmessage":"Java, JSF (Java Server Faces), JSF CDI, Primefaces, HTML, Spring, Spring Security, Spring Session, Spring Data Redis, Spring Boot, Hibernate ORM, Gradle, Maven, Selenium, TestNG, Javascript, API, Groovy, Spock, ReactJS, React Native, Flutter, C++, NPM, Yarn",
     "education":[
       {
         "school":"University of Nebraska-Lincoln, Peter Kiewit Institute",
