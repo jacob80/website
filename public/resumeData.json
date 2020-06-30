@@ -75,6 +75,12 @@
         "description":"Embedded software design, testing, and implementation, Developed a bootloaders for a Texas Instruments design used in automotive applications, Developed software for various Java and C software projects, Maintained and designed tools for inventory system based on feedback from manufacturing workers requirements and requests for improvements."
       }
     ],
+    "projects":[
+      {
+        "projectname":"Spring XML to Java Config Conversion",
+        "description":"Extensive Front-End, Back-End, API, and automated test application development and engineering, Serverless application scaling design inside a Kubernetes/Docker clustered environment, Seamless application deployment experience with continuous integration tools such as GitLab CI and Salt application configuration management, Automated build tools such as Gradle and Maven, React and Javascript front-end user interfaces design and API integration experience, Spring Framework, Spring Boot, Spring Security, Spring Session, Hibernate, JavaServer Faces, Primefaces Technologies, 3rd-Party Application Programming Interface (API) Integration and Implementation, GenSwagger API documentation, Selenium WebDriver and TestNG Automation Test Case Development applied to Java and React application front-end interfaces to ensure high quality user experiences, Docker Application Container + Kubernetes Server Deployment, Agile software development team member"
+      }
+    ],
     "skills":[
       {
         "name":"Java",
