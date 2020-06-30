@@ -54,7 +54,7 @@
         "company":"NTT",
         "title":"Software Engineer",
         "years":"March 2010 - Present",
-        "description":"Extensive Front-End, Back-End, API, and automated test application development and engineering, Serverless application scaling design inside a Kubernetes/Docker clustered environment, Seamless application deployment experience with continuous integration tools such as GitLab CI and Salt application configuration management, Automated build tools such as Gradle and Maven, React and Javascript front-end user interfaces design and API integration experience, Spring Framework, Spring Boot, Spring Security, Spring Session, Hibernate, JavaServer Faces, Primefaces Technologies, 3rd-Party Application Programming Interface (API) Integration and Implementation, GenSwagger API documentation, Selenium WebDriver and TestNG Automation Test Case Development applied to Java and React application front-end interfaces to ensure high quality user experiences, Docker Application Container + Kubernetes Server Deployment, Agile software development team member"
+        "description":"Extensive Front-End, Back-End, API, and automated test application development and engineering, Serverless application scaling design inside a Kubernetes/Docker clustered environment, Seamless application deployment experience with continuous integration tools such as GitLab CI and Salt application configuration management, Automated build tools such as Gradle and Maven, React and Javascript front-end user interfaces design and API integration experience, Spring Framework, Spring Boot, Spring Security, Spring Session, Hibernate, JavaServer Faces, Primefaces Technologies, 3rd-Party Application Programming Interface (API) Integration and Implementation, Swagger API documentation, Selenium WebDriver and TestNG Automation Test Case Development applied to Java and React application front-end interfaces to ensure high quality user experiences, Docker Application Container + Kubernetes Server Deployment, Agile software development team member"
       },
       {
         "company":"Braden-Anderson Engineering",
@@ -78,15 +78,15 @@
     "projects":[
       {
         "projectname":"3rd Party Compliance Report API Integration", 
-        "description":"Leveraged a 3rd party HTTP API using OAuth 2.0 security standard to generate and fetch security-related reports in PDF format. The company's portal application was tasked to generate a report instantaneously and await completion or setup scheduling of said report to run periodically."
+        "description":"Leveraged a 3rd party REST API equipped with OAuth 2.0 security standard to generate and fetch security-related reports in PDF format. The company's portal application was tasked to generate a report instantaneously and await completion or setup scheduling of said report to run periodically. This work involved integration amongst 3 separate projects and an Oracle database which stored the user's rendered report and report generation trigger request."
       },
       {
         "projectname":"Automation Testing Project Design and Implementation", 
-        "description":"Lead the design of automation project infrastructure and execution to perform Regression and Smoke testing the front-end Java and React portal application interfaces and unerlying functionality. I chose to use Google's Guice dependency injection framework to clean up source code and make commonly used properties readily accessible and easy for the testing team to understand."
+        "description":"Lead the design of automation project infrastructure and execution to perform Regression and Smoke testing the front-end Java and React portal application interfaces and underlying functionality. I chose to use Google's Guice dependency injection framework to clean up source code and make commonly used properties readily accessible and easy for the testing team to understand."
       },
       {
         "projectname":"Control System Design with Configuration via Cross Platform Mobile Application", 
-        "description":"Design of a printed circuit board used to drive LED lighting panels in a modular system design. The control board logs critical system transactions and errors that are reported back to the Flutter-based mobile application on either iOS or Android. The user is also able to customise the LED patterns and lighting preferences based on their input via the mobile application."
+        "description":"Design of a printed circuit board and logic used to drive LED lighting panels in a modular automotive lighting system design. The control board logic written in C++ logs critical system transactions and errors which are reported back to the Flutter mobile application on either iOS or Android. The user is also able to customize the LED patterns and lighting preferences based on their input via the mobile application. Protobuf encoding and decoding is used to efficiently store information on the embedded system in order to reduce memory consumption."
       }
     ],
     "skills":[
